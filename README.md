@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+August 23rd, 2018
 
 ### Project Title
-Replace the Project Title
+Post Your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Prints Hello World to the screen
 
 ### Files used
-Include the files used
+bikeshare.py
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Who knows who wrote the first hello world!
